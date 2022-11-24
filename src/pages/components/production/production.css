@@ -1,0 +1,29 @@
+.production_wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.production-right{
+    max-width: 473px;
+}
+
+.production-li {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+    list-style: url("../../../assets/Polygon\ 1\ \(1\).svg") inside;
+    margin-top: 30px;
+}
+
+.production-h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+}

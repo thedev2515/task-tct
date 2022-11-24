@@ -1,0 +1,95 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title-text {
+    margin-top: 40px;
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.title-text-sp {
+    color: #FFC701;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.hamburger, .logo {
+    cursor: pointer;
+}
+
+.company-item_wrapper {
+    margin-top: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 92px;
+    color: #FFFFFF;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 24px;
+    max-width: 533px;
+}
+
+.btn {
+    width: 258px;
+    height: 58px;
+    background: #FFC701;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+
+.image_wrapper {
+    width: 100%;
+    max-width: 438px;
+    position: relative;
+}
+
+.bord {
+    overflow: hidden;
+    border-radius: 16px;
+}
+.image-1 {
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+.image-2 {
+    position: absolute;
+    top: -40px;
+    left: 300px;
+}
+img {
+    border-radius: 16px;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container_wrapper {
+    overflow: hidden;
+    padding: 2.5rem 8rem;
+    min-height: 100vh;
+    background: rgb(0,168,255);
+    background: linear-gradient(90deg, rgba(0,168,255,1) 0%, rgba(0,3,122,1) 98%);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.image-hover{
+    transition: all 3s 0.4s ease;
+}
+
+.image-hover:hover {
+    transform: scale(1.2);
+}

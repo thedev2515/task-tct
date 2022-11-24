@@ -1,0 +1,32 @@
+.footer_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-p {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.footer-social_media {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #FFFFFF50;
+    border-radius: 50%;
+    cursor: pointer;
+}

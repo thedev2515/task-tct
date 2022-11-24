@@ -1,0 +1,38 @@
+.operating-enterprises_wrapper {
+    margin-top: 200px;
+    height: 337px;
+    
+}
+
+.title-2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+
+
+
+.operating-enterprises-li {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    list-style: url("../../../assets/Vector\ \(36\).svg") inside;
+}
+
+.operating-enterprises-flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 24px;
+}
+
+.operating-enterprises-cnt {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
